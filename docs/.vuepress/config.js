@@ -13,30 +13,30 @@ export default defineUserConfig({
         {
           text: 'Main Pages',
           children: [
-            '/',
+            { text: "Vicky's Recipe Collection", link: '/' },
           ],
         },
         {
           text: '中餐',  // Another section title
           collapsable: true,         // This section is collapsible
           children: [
-            '/Dish/pork.md',
-            '/Dish/eggs.md',
+            { text: "猪肉", link: '/Dish/pork.md' },
+            { text: "鸡蛋", link: '/Dish/eggs.md' },
           ],
         },
         {
           text: '面点',
           collapsable: true,
           children: [
-            '/Pastry/cake.md',
-            '/Pastry/dimsun.md',
+            { text: "蛋糕", link: '/Pastry/cake.md' },
+            { text: "点心", link: '/Pastry/dimsun.md' },
           ],
         },
         {
           text: '调料',
           collapsable: true,
           children: [
-            '/Ingredient/powder.md',
+            { text: "五香粉", link: '/Ingredient/powder.md' },
           ],
         }
       ]
