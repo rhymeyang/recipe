@@ -1,1 +1,1 @@
-# Hello VuePress
+# Vicky's Recipe Collection
