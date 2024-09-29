@@ -11,17 +11,19 @@ export default defineUserConfig({
     sidebar: {
       '/': [
         {
-          text: 'Main Pages',
+          text: 'Recipe Collection',
           children: [
-            { text: "Vicky's Recipe Collection", link: '/' },
+            { text: "General", link: '/' },
           ],
         },
         {
-          text: '中餐',  // Another section title
-          collapsable: true,         // This section is collapsible
+          text: '中餐',
+          collapsable: true,
           children: [
             { text: "猪肉", link: '/Dish/pork.md' },
+            { text: "牛肉", link: '/Dish/beef.md' },
             { text: "鸡蛋", link: '/Dish/eggs.md' },
+            { text: "水饺", link: '/Dish/dumpling.md' },
           ],
         },
         {
