@@ -22,6 +22,7 @@ export default defineUserConfig({
           children: [
             { text: "猪肉", link: '/Dish/pork.md' },
             { text: "牛肉", link: '/Dish/beef.md' },
+            { text: "凉菜", link: '/Dish/side.md' },
             { text: "鸡蛋", link: '/Dish/eggs.md' },
             { text: "水饺", link: '/Dish/dumpling.md' },
           ],

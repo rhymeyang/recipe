@@ -6,7 +6,19 @@
 4. 重点：鸡蛋 -常温
 5. 高速打 20 分钟，之后中速 5 分钟
 
-## 蛋糕 8 inch
+## 戚风
+
+### 6 寸戚风
+
+1. 牛奶 30g
+2. 油 30 g
+3. 低筋面粉 50g
+4. 鸡蛋 3 个， 55-60g（带壳）
+5. 砂糖 45g
+
+150 度， 上层
+
+### 蛋糕 8 inch
 
 1. egg 5 个（55-60g）
 2. oil 75g
@@ -14,22 +26,7 @@
 4. Lemon juice 5g
 5. Sugar 75g
 
-## 6 寸 咖啡蛋糕
-
-1. oil 20g
-2. milk 20g
-3. Instant Coffee 3g
-4. 水 7g
-5. cake Flour 35g
-6. large eggs 2
-7. caster sugers 30g
-
-8. Pre heat air fryer 160°c 5 mins
-9. Bake at 160°c 20 mins
-10. Remove aluminum foil
-11. Continue bake at 140°c 20 mins
-
-## 8 寸
+### 8 寸
 
 1. cake flour 100g
 2. corn oil 60g
@@ -49,7 +46,26 @@ Steps
 3. add cold milk continue mixing,
 4. add 6 egg yolks
 
-## 6 Inch
+## 咖啡蛋糕
+
+### 6 寸 咖啡蛋糕
+
+1. oil 20g
+2. milk 20g
+3. Instant Coffee 3g
+4. 水 7g
+5. cake Flour 35g
+6. large eggs 2
+7. caster sugers 30g
+
+8. Pre heat air fryer 160°c 5 mins
+9. Bake at 160°c 20 mins
+10. Remove aluminum foil
+11. Continue bake at 140°c 20 mins
+
+## 乳酪蛋糕
+
+### 6 Inch
 
 1. 125g Cream Cheese 奶油乳酪
 2. 20g Unsalted Butter，无盐黄油
