@@ -83,6 +83,13 @@ Steps
 10. Remove aluminum foil
 11. Continue bake at 140°c 20 mins
 
+## 无水蛋糕
+
+1. 4 鸡蛋 eggs
+2. 80 g 白糖 sugar
+3. 110 g 低筋面粉 low-gluten flour
+4. 50g 油 vegetable oil
+5. 
 ## 乳酪蛋糕
 
 ### 6 Inch
