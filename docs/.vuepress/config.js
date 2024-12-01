@@ -6,8 +6,26 @@ export default defineUserConfig({
   bundler: viteBundler(),
   base: '/recipe/',
   theme: defaultTheme({
-    logo: '/recipe/images/logo.png',
-    navbar: false,
+    logo: '/images/leaf.svg',
+    contributors: false,
+    navbar: [
+      {
+        text: 'Vivian',
+        link: '/../vivian/',
+      },
+      {
+        text: 'Recipe',
+        link: '/../recipe/',
+      },
+      {
+        text: 'English',
+        link: '/../english-starter/',
+      },
+      {
+        text: 'Semester 3',
+        link: '/../Se/',
+      }
+    ],
     sidebar: {
       '/': [
         {
