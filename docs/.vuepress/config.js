@@ -51,6 +51,7 @@ export default defineUserConfig({
           children: [
             { text: "蛋糕", link: '/Pastry/cake.md' },
             { text: "点心", link: '/Pastry/dimsun.md' },
+            { text: "面包机", link: '/machine/bread.md' },
           ],
         },
         {
