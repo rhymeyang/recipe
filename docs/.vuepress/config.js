@@ -46,6 +46,13 @@ export default defineUserConfig({
           ],
         },
         {
+          text: '肉',
+          collapsable: true,
+          children: [
+            { text: "羊肉", link: '/Dish/lamp.md' },
+          ],
+        },
+        {
           text: '面点',
           collapsable: true,
           children: [
