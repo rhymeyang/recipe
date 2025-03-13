@@ -89,7 +89,8 @@ Steps
 2. 80 g 白糖 sugar
 3. 110 g 低筋面粉 low-gluten flour
 4. 50g 油 vegetable oil
-5. 
+5.
+
 ## 乳酪蛋糕
 
 ### 6 Inch
@@ -106,3 +107,32 @@ Steps
 120°C 40 分钟
 
 140°C 15 分钟
+
+## Sponge Cup Cakes 鸡蛋糕（古早味海绵小蛋糕）
+
+Ingredients :
+
+- 5 eggs - grade A（鸡蛋）
+- 150g （2/3 cup） caster sugar（细砂糖）
+- 190g （11/2 cups） plain flour（普通面粉）
+- 1 tsp baking powder（发粉）
+- 1/4 tsp salt (im)
+- 50ml corn oil（玉米油）
+- 50ml milk（鲜奶）
+
+## 6 寸戚风
+
+1. 牛奶 30g
+2. 油 30 g
+3. 低筋面粉 50g
+4. 鸡蛋 3 个， 55-60g（带壳）
+5. 砂糖 45g
+
+## 红糖发糕
+
+1. 红糖 45g
+2. 温水 110g
+3. 酵母 2g
+4. 鸡蛋 1 ge 55g
+5. 油 15g
+6. 中筋面粉 150g
