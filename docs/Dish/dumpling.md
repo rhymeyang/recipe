@@ -1,3 +1,70 @@
+## 葱油饼 Scallion Pancake recipe
+
+小高姐
+
+发面 1.5 小时
+
+Dough:
+
+- Yeast: 1/4 tsp
+- water: 250g
+- Oil: 15g
+- all purpose flour: 350g
+
+Oil mixture: 油酥
+
+- Flour: 40g, 1/4 cup
+- Salt: 8g, 1 tsp
+- Oil: 50g
+
+- Scallions: 1 bunch
+
+面筋要松弛 15M+
+
+---
+
+Dough:
+
+- All purpose flour: 250 g
+- Water: 175 g
+- Yeast: 1 tsp
+- Sugar: 1 tbsp
+
+Oil flour mixture
+
+- Scallion: 150 g
+- Baking soda: 1/8 tsp 保留小葱颜色
+- Flour: 80g
+- Five spice powder: 1/8 tsp
+- Sichuan pepper powder: 1/8 tsp
+- Salt: 1/2 tsp
+- Oil: 50 g
+
+## 牛肉饼
+
+10 pan fried beef pies
+
+dough for the wrap:
+
+- all purpose flour 400g / 2+3/4 cup
+- boiling water 167g / 2/3 cup
+- salt 2g / 1/4 teaspoon
+- warm water 140g / 1/2 cup+1 tablespoon
+- oil 27g / 2 tablespoon
+
+beef fillings：
+
+- ground beef 625g
+- five-spice powder 2g / 1/2 teaspoon
+- Sichuan peppercorn powder 2g / 1/2 teaspoon
+- white pepper powder 2g / 1/2 teaspoon
+- regular soy sauce 30g / 2 tablespoons
+- salt 8g / 1 teaspoon
+- ginger 10g / 1teaspoon
+- green onions 80g / 1 cup
+- warm water 125g / 1/2 cup
+- Yukon gold potatoes 500g / 4 small size
+
 ## 饺子皮
 
 1. 盐 3g
